@@ -1,0 +1,20 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International License.
+
+To use this dataset, you must provide appropriate credit by citing the following paper:
+
+Hossen, M. S., Shaha, P., & Saiduzzaman, M. (2025). Social Media Sentiments Analysis on the July Revolution in Bangladesh: A Hybrid Transformer Based Machine Learning Approach. In Proceedings of the 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI). IEEE.
+
+
+Bibtex Entry for LaTeX users: 
+@inproceedings{hossen2025july,
+  author    = {Hossen, Md Sabbir and Shaha, Pabon and Saiduzzaman, Md},
+  title     = {Social Media Sentiments Analysis on the July Revolution in Bangladesh: A Hybrid Transformer Based Machine Learning Approach},
+  booktitle = {Proceedings of the 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)},
+  year      = {2025},
+  publisher = {IEEE}
+}
+
+
+License details: https://creativecommons.org/licenses/by/4.0/
